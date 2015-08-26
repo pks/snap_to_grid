@@ -1,5 +1,5 @@
 window.onload = function () {
-  var color, i, ii, tempS, tempT,
+  var \
     dragger = function ()
     {
       curDrag = this;
