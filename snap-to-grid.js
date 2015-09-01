@@ -1,6 +1,5 @@
 window.onload = function () {
-  var \
-    dragger = function ()
+  var dragger = function ()
     {
       curDrag = this;
       this.ox = this.type == "rect" ? this.attr("x") : this.attr("cx");
