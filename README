@@ -1,2 +1,3 @@
-snap-to-grid for simple boxes in rapaheljs
+Snap-to-grid for simple objects in rapaheljs. Not perfect, things get messed up
+if dragging is too fast.
 
